@@ -1,4 +1,4 @@
-# Investment Categorization Design
+# Credit Rating Design
 
 Application for an investment company that needs to categorize investmentopportunities for sovereign debt (i.e., debt owed by a central government, such as US Treasury Bonds),andassigncreditratings basedonthe country'sfinancialattributes,andrelatedinformation.
 
