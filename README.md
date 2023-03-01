@@ -1,5 +1,9 @@
 # Credit Rating Design
 
+<p align="center">
+<img src="https://nfcc.org/wp-content/uploads/2020/09/bigstock-Credit-Score-Concept-Business-384487778.jpg" height="80%" width="80%"/>
+<br />
+
 Application for an investment company that needs to categorize investment opportunities for sovereign debt (i.e., debt owed by a central government, such as US Treasury Bonds), and assign credit ratings based on the country's financial attributes, and related information.
 
 This assignment is based loosely on the following research paper: Constantin Mellios & Eric Paget-Blanc (2006) Which factors determine sovereign credit ratings?, The European Journal of Finance, 12:4, 361-377,DOI:[10.1080/13518470500377406](https://doi.org/10.1080/13518470500377406)
