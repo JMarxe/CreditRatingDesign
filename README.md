@@ -2,7 +2,7 @@
 
 Application for an investment company that needs to categorize investment opportunities for sovereign debt (i.e., debt owed by a central government, such as US Treasury Bonds), and assign credit ratings based on the country's financial attributes, and related information.
 
-This assignment is based loosely on the following research paper: Constantin Mellios & Eric Paget-Blanc(2006) Which factors determine sovereign credit ratings?, The European Journal of Finance, 12:4, 361-377,DOI:[10.1080/13518470500377406](https://doi.org/10.1080/13518470500377406)
+This assignment is based loosely on the following research paper: Constantin Mellios & Eric Paget-Blanc (2006) Which factors determine sovereign credit ratings?, The European Journal of Finance, 12:4, 361-377,DOI:[10.1080/13518470500377406](https://doi.org/10.1080/13518470500377406)
 
 The table below summarizes the data used to describe countries:
 
