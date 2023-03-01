@@ -1,6 +1,6 @@
 # Credit Rating Design
 
-Application for an investment company that needs to categorize investmentopportunities for sovereign debt (i.e., debt owed by a central government, such as US Treasury Bonds),andassigncreditratings basedonthe country'sfinancialattributes,andrelatedinformation.
+Application for an investment company that needs to categorize investment opportunities for sovereign debt (i.e., debt owed by a central government, such as US Treasury Bonds), and assign credit ratings based on the country's financial attributes, and related information.
 
 This assignment is based loosely on the following research paper: Constantin Mellios & Eric Paget-Blanc(2006) Which factors determine sovereign credit ratings?, The European Journal of Finance, 12:4, 361-377,DOI:[10.1080/13518470500377406](https://doi.org/10.1080/13518470500377406)
 
@@ -16,7 +16,6 @@ The table below summarizes the data used to describe countries:
 | Corruption Perception Index score | Integer | 100 (fully transparent) to 0 (fully corrupt) | Index of a country's transparency and governance structures |
 
 The inputs into the application are data points describing the country, and the output is a three-character credit rating. The relevant decision tree is given in the figure below:
-
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/114123232/221914121-ed96a107-884f-4fb7-8c4b-d7d2efb7101f.png"/>
